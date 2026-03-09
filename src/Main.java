@@ -39,6 +39,7 @@ class Employee {
         System.out.println("Name: " + name);
         System.out.println("Role: " + getRole());
         System.out.println("Salary: " + calculateSalary());
+        System.err.println();
     }
 }
 
